@@ -12,6 +12,8 @@
 <br>
 
 ![screencapture-localhost-dscard-2021-06-24-16_30_08](https://user-images.githubusercontent.com/50236115/133376253-1f4efc02-d045-41dc-b7e5-6f90aee067aa.jpg)
+<br>
+![screencapture-localhost-dscard-2021-06-24-16_30_08](https://user-images.githubusercontent.com/50236115/133376499-7dee9035-cf86-408b-b164-12c20c2df98e.png)
 
 ## Master menu
 
